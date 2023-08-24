@@ -1,7 +1,6 @@
 ### Hi I'm Daeun👋
 Soongsil Univ CSE 22
 
-<br>
 🔎 Language && Tool
 --------------
 #### Language
