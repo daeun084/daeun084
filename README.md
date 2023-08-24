@@ -1,5 +1,6 @@
 ### Hi I'm Daeun👋
 🏫 Soongsil Univ CSE 22
+<br>
 ✉️ 030804jk@naver.com
 
 <br>
