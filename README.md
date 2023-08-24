@@ -1,6 +1,7 @@
 ### Hi I'm Daeun👋
+Soongsil Univ CSE 22
 
-<br><br>
+<br>
 🔎 Language && Tool
 --------------
 #### Language
@@ -13,13 +14,12 @@
 
 🖥️ Projects
 --------------
-- 2023.07-08 <br> UMC - KnockKnock &nbsp; <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
-
-<br><br>
+- 2023.07-08 &nbsp; UMC - KnockKnock &nbsp; <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+<br>
 
 💫 Activity
 --------------
-- 2023.03-08 <br> UMC(4th) - iOS
-- 2023.07-08 <br> 42 La Piscine &nbsp;  <img src="https://img.shields.io/badge/42-000000?style=flat&logo=&logoColor=white" />
+- 2023.03-08 &nbsp; UMC(4th) - iOS &nbsp; <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
+- 2023.07-08 &nbsp; 42 La Piscine &nbsp; <img src="https://img.shields.io/badge/42-000000?style=flat&logo=&logoColor=white" />
 
 <br>
