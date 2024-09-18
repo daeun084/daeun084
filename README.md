@@ -10,7 +10,7 @@
 - **UMC** 5th SpringBoot 파트 : `2023.09~2024.02`
 - **UMC** 6th 숭실대학교 부회장 : `2024.03~2024.08`
 - **LG Aimers** 5th : `2024.07~2024.08`
-- 숭실대학교 **구름톤 유니브** 3th Backend : `2024.08~ing`
+- **구름톤 유니브** 3th Backend : `2024.08~ing`
 - 대학생IT경영학회 **큐시즘** 30th Backend : `2024.08~ing`
 
 <br>
@@ -27,3 +27,7 @@
 
 ## 🛠️ Stack
 ![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeun084&show_icons=true&theme=graywhite) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeun084&layout=compact)
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/daeun084%2Fgjbae1212%2Fhit-counter&count_bg=%23DBC114&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
