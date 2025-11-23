@@ -1,5 +1,5 @@
 
-🏫 Soongsil Univ CSE 22
+🏫 Soongsil Univ. Computer Science and Engineering 22
 <br>
 ✉️ 030804jk@naver.com
 
