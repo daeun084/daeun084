@@ -29,6 +29,7 @@
 <br>
 
 ## 💳 Certificates
+- TOEIC Speaking IH : `2025.11`
 - 정보처리기사 : `2025.09`
 - 리눅스 마스터 2급 : `2025.07`
 - SQLD : `2024.09`
@@ -36,5 +37,3 @@
 
 <br>
 
-## 🛠️ Stack
-![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeun084&show_icons=true&theme=graywhite) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeun084&layout=compact)
